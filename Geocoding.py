@@ -67,11 +67,11 @@
 
 # The CSV interface, invoked with this:
 # 
-# http://rpc.geocoder.us/service/csv?address=2855+Telegraph+Ave.%2C+Berkeley%2C+CA
+# http://rpc.geocoder.us/service/csv?address=1600+Pennsylvania+Ave,+Washington+DC
 # 
 # returns the following:
 # 
-# `37.858276,-122.260070,2855 Telegraph Ave,Berkeley,CA,94705`
+# `38.898748,-77.037684,1600 Pennsylvania Ave NW,Washington,DC,20502`
 
 # <markdowncell>
 
